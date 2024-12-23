@@ -1,0 +1,94 @@
+.red{
+    font-size: 22px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: 100;
+    font-style: italic;
+    color: blue;
+    font-variant: small-caps;
+}
+.main{
+    font-family: sans-serif,"Helvetica Neue", "Lucida Grande", Arial;
+    font-stretch: expanded;
+    font-style: oblique;
+    color: blueviolet;
+}
+.het{
+    font-size: 20px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-style: inherit;
+    font-variant: initial;
+    font-stretch: ultra-expanded;
+    font-variant: small-caps
+
+}
+
+.sed{
+    font-style: 32px;
+    font-weight: lighter;
+    font-family: fantasy;
+    color: chocolate;
+}
+.fat{
+    font-style: 18px;
+    font-weight: bold;
+    font-family: fantasy;
+    line-height: 28px;
+}
+.don{
+    font-family: monospace;
+    font-style: 32px;
+    font-style: 19px;
+    color: aquamarine;
+
+}
+.zed{
+    font-style: 45px;
+    font-weight:400;
+    font-family: sans-serif;
+    color: red;
+}
+.zero{
+    font: "Roboto";
+    font-weight: 400;
+    font-style: 19px;
+    line-height: 28px;
+color: #B45F4D;
+}
+.feet{
+    font: "Roboto";
+    font-weight: 400;
+    font-style: 18px;
+    line-height: 28px;
+    color: #B4604D;
+}
+.normal{
+    font-variant-caps: unicase;;
+    color: brown;
+    font-kerning: inherit;
+}
+
+.pen{
+    font-family: "Roboto";
+    font-weight: 400;
+    font-size: 23px;
+    line-height:28px ;
+
+}
+.h4{
+    font-family: "Sofia", sans-serif;
+}
+.h5{
+    font-family: "Trirong", serif;
+}
+.h3{
+    font-family: "Audiowide", sans-serif;
+
+}
+h1{
+    font-family:"Sofia", sans-serif ;
+    color: aqua;
+}
+h2{
+    font-family: "Audiowide", sans-serif;
+    color: chartreuse;
+}
