@@ -21,7 +21,13 @@
     font-variant: small-caps
 
 }
-
+.firna{
+    font-style: 16px;
+    font-weight: 400;
+    font-variant: small-caps;
+    color: cornflowerblue;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 .sed{
     font-style: 32px;
     font-weight: lighter;
